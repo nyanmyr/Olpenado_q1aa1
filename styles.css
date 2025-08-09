@@ -1,0 +1,227 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-size: 10px;
+}
+
+div {
+    vertical-align: top;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.inlineblock {
+    margin-top: 4vh;
+    vertical-align: top;
+    display: inline-block;
+}
+
+p {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.box1,
+.box2 {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.box1 {
+
+    width: 20vw;
+    height: 80vh;
+    margin-left: 10vw;
+}
+
+.box1a {
+    background-color: #FAEEE2;
+    width: inherit;
+    height: 50%;
+}
+
+.createpost {
+    margin-left: 4vw;
+    width: 12vw;
+    height: 12vh;
+}
+
+.box1b {
+    background-color: #FFCC69;
+    width: inherit;
+    height: 50%;
+}
+
+.aicontent {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    width: 16vw;
+    height: 20vh;
+}
+
+.box2 {
+    width: 60vw;
+    height: 80vh;
+}
+
+.box2a {
+    display: block;
+    width: inherit;
+    height: 70%;
+}
+
+.box2a1 {
+    width: 60%;
+    height: 100%;
+}
+
+.box2a1a {
+    background-color: hsl(256, 67%, 59%);
+    width: 100%;
+    height: 60%;
+}
+
+.fivestars {
+    margin-left: 13vw;
+    width: 10vw;
+    height: 4vh;
+}
+
+.box2a1b {
+    background-color: hsl(0, 0%, 100%);
+    width: 50%;
+    height: 40%;
+}
+
+.multipleplatforms {
+    margin-top: 1vh;
+    margin-left: 2vw;
+    width: 16vw;
+    height: 5vh;
+}
+
+.box2a1c {
+    float: right;
+    background-color: #FFCC69;
+    width: 50%;
+    height: 40%;
+}
+
+.consistentschedule {
+    margin-left: 2vw;
+    width: 14vw;
+    height: 7.25vh;
+}
+
+.box2a2 {
+    float: right;
+    background-color: hsl(254, 88%, 90%);
+    width: 40%;
+    height: 100%;
+}
+
+.scheduleposts {
+    margin-left: 4vw;
+    width: 20vw;
+    height: 24vh;
+}
+
+.box2b {
+    display: block;
+    width: inherit;
+    height: 30%;
+}
+
+.box2b1 {
+    background-color: hsl(0, 0%, 100%);
+    width: 30%;
+    height: 100%;
+}
+
+.audiencegrowth {
+    margin-left: 2vw;
+    width: 10vw;
+    height: 7vh;
+}
+
+.box2b2 {
+    float: right;
+    background-color: hsl(256, 67%, 59%);
+    width: 70%;
+    height: 100%;
+}
+
+.growfollowers {
+    margin-top: 3vh;
+    margin-left: 2vw;
+    width: 16vw;
+    height: 18vh;
+}
+
+.dmsansvariable {
+    font-family: 'DMSansVariable', sans-serif;
+}
+
+.dmsansregular {
+    font-family: 'DMSansRegular', sans-serif;
+}
+
+.dmsansmediumitalic {
+    font-family: 'DMSansMediumItalic', sans-serif;
+}
+
+@font-face {
+    font-family: 'DMSansVariable';
+    src: url('assets/fonts/DMSans-VariableFont_opsz\,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSansRegular';
+    src: url('assets/fonts/static/DMSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DMSansMediumItalic';
+    src: url('assets/fonts/static/DMSans-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.smallsize {
+    font-size: 1vw;
+}
+
+.normalsize {
+    font-size: 2vw;
+}
+
+.mediumsize {
+    font-size: 2.5v;
+}
+
+.largesize {
+    font-size: 3vw;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.shortlineheight {
+    line-height: 1.5vh;
+}
+
+.purpletext {
+    color: hsl(256, 67%, 59%);
+    font-style: italic;
+}
+
+.goldtext {
+    color: hsl(39, 100%, 71%);
+}
+
+.whitetext {
+    color: white;
+}
